@@ -2,7 +2,7 @@
 
 ## 📌 Contexto
 
-O arquivo original continha informações de diversos candidatos de um concurso da Petrobras. Cada candidato possuía dados como número de matrícula, nome completo e notas obtidas em diferentes etapas da prova. Porém, o formato do arquivo apresentava os seguintes problemas:
+O arquivo original continha informações de diversos candidatos de um concurso. Cada candidato possuía dados como número de matrícula, nome completo e notas obtidas em diferentes etapas da prova. Porém, o formato do arquivo apresentava os seguintes problemas:
 
 ### ❌ Antes:
 - As informações de mais de um candidato apareciam na mesma linha.
